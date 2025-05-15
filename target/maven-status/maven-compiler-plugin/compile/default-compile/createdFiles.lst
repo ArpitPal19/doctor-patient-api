@@ -1,0 +1,11 @@
+com\xcelore\doctorpatientapi\controller\DoctorController.class
+com\xcelore\doctorpatientapi\repository\DoctorRepository.class
+com\xcelore\doctorpatientapi\controller\PatientController.class
+com\xcelore\doctorpatientapi\DoctorPatientApiApplication.class
+com\xcelore\doctorpatientapi\entity\Doctor.class
+com\xcelore\doctorpatientapi\entity\Symptom.class
+com\xcelore\doctorpatientapi\repository\PatientRepository.class
+com\xcelore\doctorpatientapi\entity\Patient.class
+com\xcelore\doctorpatientapi\entity\Speciality.class
+com\xcelore\doctorpatientapi\controller\SuggestionController.class
+com\xcelore\doctorpatientapi\service\SuggestionService.class
